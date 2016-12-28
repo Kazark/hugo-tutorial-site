@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kazark.github.io/hugo-tutorial-site/post/good-to-great/</loc>
+    <loc>https://kazark.github.io/hugo-tutorial-site/post/good-to-great/</loc>
     <lastmod>2016-12-28T12:40:50-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kazark.github.io/hugo-tutorial-site/</loc>
+    <loc>https://kazark.github.io/hugo-tutorial-site/</loc>
     <lastmod>2016-12-28T12:40:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kazark.github.io/hugo-tutorial-site/post/</loc>
+    <loc>https://kazark.github.io/hugo-tutorial-site/post/</loc>
     <lastmod>2016-12-28T12:40:50-05:00</lastmod>
     <priority>0</priority>
   </url>

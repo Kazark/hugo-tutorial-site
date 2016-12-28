@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Hugo Tutorial Site"
-baseurl = "http://kazark.github.io/hugo-tutorial-site"
+baseurl = "https://kazark.github.io/hugo-tutorial-site"
 theme = "hugo-theme-bleak"
 publishDir = "public"
 canonifyurls = true
