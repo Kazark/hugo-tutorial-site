@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "My New Hugo Site"
-baseurl = "http://example.org/"
+title = "Hugo Tutorial Site"
+baseurl = "http://kazark.github.io/hugo-tutorial-site"
 theme = "hugo-theme-bleak"
 publishDir = "public"
